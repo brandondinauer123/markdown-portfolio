@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some __programming languages__ I know are, _C#_, _Java_, and _HTML_. 
